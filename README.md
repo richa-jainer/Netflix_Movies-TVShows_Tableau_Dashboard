@@ -1,0 +1,2 @@
+# Netflix_Movies-TVShows_Tableau_Dashboard
+The project involved utilizing Tableau to design an interactive dashboard that provided insights into various aspects of Netflix's movie and TV show collection. By visualizing data related to content distribution by country, release dates, date of addition to Netflix, top content, and yearly content growth, the dashboard aimed to offer valuable insights to both casual viewers and data analysts interested in understanding Netflix's content trends and patterns.
